@@ -265,7 +265,7 @@ This is a bug fix only release to address the following four issues.
 * Adds support for controlling the RGB LED present on PS4/Etpark gamepads from OpModes
 * Removes legacy Pushbot references from OpMode samples.  Renames "Pushbot" samples to "Robot".  Motor directions reversed to be compatible with "direct Drive" drive train. 
  
-j
+jj
 ### Bug fixes
 * Fixes [issue #316](https://github.com/FIRST-Tech-Challenge/FtcRobotController/issues/316) (MatrixF.inverted() returned an incorrectly-sized matrix for 1x1 and 2x2 matrixes).
 * Self inspect now allows for Driver Station and Robot Controller compatibility between point releases.
